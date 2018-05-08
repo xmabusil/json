@@ -1,0 +1,51 @@
+{
+    "GimaxData": [
+    {
+      "id":"1",
+      "name_sede":"Rivoli", 
+      "via":"Via Pavia, 116/A - 10098 Rivoli, Torino",
+      "telefono":"Tel. 011 959 77 95 - Fax 011 953 91 91",
+      "email":"gimax@gimaxrent.it",
+      "description": "Descrizione Rivoli ...",
+      "coordinate": {
+        "lat":45.0598236,
+        "lon":7.5486510000000635
+      }
+    },{
+      "id":"2",
+      "name_sede":"Moncalieri",
+      "via":"Via Cavalieri del lavoro, 2/4 (angolo Strada Carignano) - 10024 Moncalieri, Torino",
+      "telefono":"Tel. 011 640 80 52 - Fax 011 64 79 188",
+      "email":"moncalieri@gimaxrent.it",
+      "description": "Descrizione Moncalieri ...",
+      "coordinate": {
+        "lat":44.9895122,
+        "lon":7.670788600000037
+      }
+    },
+    {
+      "id":"3",
+      "name_sede":"Pero",
+      "via":"Via Buonarroti, 2/A - 20016 Pero, Milano",
+      "telefono":"Tel. 02 84150010",
+      "email":"pero@gimaxrent.it",
+      "description": "Descrizione Pero ...",
+      "coordinate": {
+        "lat":45.5032948,
+        "lon":9.079397500000027
+      }
+    },
+    {
+      "id":"4",
+      "name_sede":"Genova",
+      "via":"Ponte Carrega, 30r - 16141 Genova",
+      "telefono":"Tel. 010 98 61 205",
+      "email":"genova@gimaxrent.it",
+      "description": "Descrizione Genova ...",
+      "coordinate": {
+        "lat":44.4343963,
+        "lon":8.963852599999996
+      }
+    }
+ ]
+}
