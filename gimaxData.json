@@ -6,6 +6,7 @@
       "via":"Via Pavia, 116/A - 10098 Rivoli, Torino",
       "telefono":"Tel. 011 959 77 95 - Fax 011 953 91 91",
       "email":"gimax@gimaxrent.it",
+      "img_map":"https://maps.googleapis.com/maps/api/staticmap?center=45.0596352,7.5466078&zoom=13&size=1000x300&scale=2&maptype=roadmap&markers=icon:https://www.gimaxrent.it/documents/20143/37718/marker-gimax.png|45.0596352,7.5466078&sensor=false",
       "description": "Descrizione Rivoli ...",
       "coordinate": {
         "lat":45.0598236,
@@ -17,6 +18,7 @@
       "via":"Via Cavalieri del lavoro, 2/4 (angolo Strada Carignano) - 10024 Moncalieri, Torino",
       "telefono":"Tel. 011 640 80 52 - Fax 011 64 79 188",
       "email":"moncalieri@gimaxrent.it",
+      "img_map":"https://maps.googleapis.com/maps/api/staticmap?center=44.984193,7.670510&zoom=13&size=1000x300&scale=2&markers=icon:https://www.gimaxrent.it/documents/20143/37718/marker-gimax.png|44.984193,7.670510&sensor=false",
       "description": "Descrizione Moncalieri ...",
       "coordinate": {
         "lat":44.9895122,
@@ -29,6 +31,7 @@
       "via":"Via Buonarroti, 2/A - 20016 Pero, Milano",
       "telefono":"Tel. 02 84150010",
       "email":"pero@gimaxrent.it",
+      "img_map":"https://maps.googleapis.com/maps/api/staticmap?center=45.503176,9.079714&zoom=13&size=1000x300&scale=2&maptype=roadmap&markers=icon:https://www.gimaxrent.it/documents/20143/37718/marker-gimax.png|45.503176,9.079714&sensor=false",
       "description": "Descrizione Pero ...",
       "coordinate": {
         "lat":45.5032948,
@@ -41,6 +44,7 @@
       "via":"Ponte Carrega, 30r - 16141 Genova",
       "telefono":"Tel. 010 98 61 205",
       "email":"genova@gimaxrent.it",
+      "img_map":"https://maps.googleapis.com/maps/api/staticmap?center=44.4344995,8.9661593&zoom=13&size=1000x300&scale=2&maptype=roadmap&markers=icon:https://www.gimaxrent.it/documents/20143/37718/marker-gimax.png|44.4344995,8.9661593&sensor=false",
       "description": "Descrizione Genova ...",
       "coordinate": {
         "lat":44.4343963,
