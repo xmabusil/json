@@ -9,7 +9,7 @@
       "img_map":"https://maps.googleapis.com/maps/api/staticmap?center=45.0596352,7.5466078&zoom=13&size=1000x300&scale=2&maptype=roadmap&markers=icon:https://www.gimaxrent.it/documents/20143/37718/marker-gimax.png|45.0596352,7.5466078&sensor=false",
       "description": "Descrizione Rivoli ...",
       "link": {
-        "sedeGoogleMaps": "https://www.google.it/maps/place/Via+Pavia,+116,+10098+Rivoli+TO/@45.0692063,7.551323,17z/data=!3m1!4b1!4m5!3m4!1s0x47886ae7efa702ff:0x4ff8f4f9ebfc9bba!8m2!3d45.0692063!4d7.553517",
+        "sedeGoogleMaps": "https://www.google.it/maps/place/Gimax+SRL+-+Noleggio+Auto+e+Furgoni+TORINO/@45.0598163,7.5483817,19.75z/data=!4m13!1m7!3m6!1s0x47886ac5630aad6b:0x68cf74134a7a7bb0!2sVia+Pavia,+116,+10098+Allamano+TO!3b1!8m2!3d45.0596352!4d7.5487965!3m4!1s0x47886ac564156f95:0x54fb67de175aab24!8m2!3d45.0600235!4d7.548508",
         "sedeTelefono": "tel:011597795",
         "sedeMail": "mailto: gimax@gimaxrent.it"
       },
@@ -26,7 +26,7 @@
       "img_map":"https://maps.googleapis.com/maps/api/staticmap?center=44.984193,7.670510&zoom=13&size=1000x300&scale=2&markers=icon:https://www.gimaxrent.it/documents/20143/37718/marker-gimax.png|44.984193,7.670510&sensor=false",
       "description": "Descrizione Moncalieri ...",
       "link": {
-        "sedeGoogleMaps": "https://www.google.it/maps/place/Gimax+SRL+-+Noleggio+Auto+e+Furgoni+Torino/@44.984018,7.667917,17z/data=!3m1!4b1!4m5!3m4!1s0x4788120b658ae985:0xe32afb4337885857!8m2!3d44.984018!4d7.670111",
+        "sedeGoogleMaps": "https://www.google.it/maps/place/Gimax+SRL+-+Noleggio+Auto+e+Furgoni+Torino/@44.9837927,7.6699426,19z/data=!4m8!1m2!2m1!1sVia+Cavalieri+del+lavoro,+2%2F4+Moncalieri,+10024+TO!3m4!1s0x0:0xe32afb4337885857!8m2!3d44.9840181!4d7.6701109?hl=it",
         "sedeTelefono": "tel:0116408052",
         "sedeMail": "mailto: moncalieri@gimaxrent.it"
       },
@@ -44,7 +44,7 @@
       "img_map":"https://maps.googleapis.com/maps/api/staticmap?center=45.503176,9.079714&zoom=13&size=1000x300&scale=2&maptype=roadmap&markers=icon:https://www.gimaxrent.it/documents/20143/37718/marker-gimax.png|45.503176,9.079714&sensor=false",
       "description": "Descrizione Pero ...",
       "link": {
-        "sedeGoogleMaps": "https://www.google.it/maps/place/Via+Michelangelo+Buonarroti,+2,+20016+Pero+MI/@45.503158,9.0773234,17z/data=!3m1!4b1!4m5!3m4!1s0x4786ea5fccd9dba9:0x423ddac02bf7e2be!8m2!3d45.503158!4d9.0795174",
+        "sedeGoogleMaps": "https://www.google.com/maps/place/Gimax+srl+-+Noleggio+Auto+e+Furgoni+MILANO/@45.5031314,9.0794475,20.5z/data=!4m13!1m7!3m6!1s0x4786ea5fd269139f:0xb5e10415836244df!2sVia+Michelangelo+Buonarroti,+20016+Pero+MI!3b1!8m2!3d45.5025695!4d9.0786818!3m4!1s0x4786ea5fd85dd647:0x697f84d56ce46fbf!8m2!3d45.5032762!4d9.0793841?hl=it-IT",
         "sedeTelefono": "tel:0284150010",
         "sedeMail": "mailto: pero@gimaxrent.it"
       },
@@ -62,7 +62,7 @@
       "img_map":"https://maps.googleapis.com/maps/api/staticmap?center=44.4344995,8.9661593&zoom=13&size=1000x300&scale=2&maptype=roadmap&markers=icon:https://www.gimaxrent.it/documents/20143/37718/marker-gimax.png|44.4344995,8.9661593&sensor=false",
       "description": "Descrizione Genova ...",
       "link": {
-        "sedeGoogleMaps": "https://www.google.it/maps/place/Passo+Ponte+Carrega,+30,+16141+Genova+GE/@44.4345073,8.9617183,17z/data=!3m1!4b1!4m5!3m4!1s0x12d344636a8c70d9:0x50a5bc8a9b5c1b0!8m2!3d44.4345073!4d8.9639123",
+        "sedeGoogleMaps": "https://www.google.it/maps/place/Gimax+Srl+-+Noleggio+Auto+e+Furgoni+Genova/@44.4349787,8.9663449,20.25z/data=!4m13!1m7!3m6!1s0x12d344636a8c70d9:0x50a5bc8a9b5c1b0!2sPasso+Ponte+Carrega,+30,+16141+Genova+GE!3b1!8m2!3d44.4345073!4d8.9639123!3m4!1s0x12d3446464a44b43:0x4f3fe93879e15ba9!8m2!3d44.4350621!4d8.966103",
         "sedeTelefono": "tel:0109861205",
         "sedeMail": "mailto: genova@gimaxrent.it"
       },
