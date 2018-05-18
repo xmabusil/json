@@ -26,7 +26,7 @@
       "img_map":"https://maps.googleapis.com/maps/api/staticmap?center=44.984193,7.670510&zoom=13&size=1000x300&scale=2&markers=icon:https://www.gimaxrent.it/documents/20143/37718/marker-gimax.png|44.984193,7.670510&sensor=false",
       "description": "Descrizione Moncalieri ...",
       "link": {
-        "sedeGoogleMaps": "https://www.google.it/maps/place/Gimax+SRL+-+Noleggio+Auto+e+Furgoni+Torino/@44.9837927,7.6699426,19z/data=!4m8!1m2!2m1!1sVia+Cavalieri+del+lavoro,+2%2F4+Moncalieri,+10024+TO!3m4!1s0x0:0xe32afb4337885857!8m2!3d44.9840181!4d7.6701109?hl=it",
+        "sedeGoogleMaps": "https://www.google.it/maps/place/Gimax+SRL+-+Noleggio+Auto+e+Furgoni+TORINO/@45.0593966,7.5487582,17z/data=!4m13!1m7!3m6!1s0x47886ae7efa702ff:0x4ff8f4f9ebfc9bba!2sVia+Pavia,+116,+10098+Rivoli+TO!3b1!8m2!3d45.0692063!4d7.553517!3m4!1s0x47886ac564156f95:0x54fb67de175aab24!8m2!3d45.0600235!4d7.548508",
         "sedeTelefono": "tel:0116408052",
         "sedeMail": "mailto: moncalieri@gimaxrent.it"
       },
